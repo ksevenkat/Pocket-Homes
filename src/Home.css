@@ -1,0 +1,12 @@
+.home__section {
+     
+    padding: 50px;
+    display: -webkit-flex;
+  grid-gap: 50px;
+  background-color:  aliceblue;
+  
+  }
+  .card{
+    
+    image-resolution: 50;
+  }
